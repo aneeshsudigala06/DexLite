@@ -1,7 +1,7 @@
-# Pokedex App
+# Pokédex App
 
 ## Description
-This project is a pokedex application built using Java.
+This project is a Pokédex application built using Java.
 
 ## Features
 - Search by Name
