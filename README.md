@@ -1,7 +1,7 @@
 # Pokédex CLI
 
 ## Description
-This project is a Pokédex CLI built using Python.
+This project is a Pokédex CLI built using Python and PokéAPI.
 
 ## Features
 - Search by Name
