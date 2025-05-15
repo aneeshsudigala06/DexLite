@@ -1,4 +1,4 @@
-# Pokédex App
+# Pokédex CLI
 
 ## Description
 This project is a Pokédex CLI built using Python.
