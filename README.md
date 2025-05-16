@@ -13,7 +13,7 @@ This project is a Pokédex CLI built using Python and PokéAPI.
 
 ## Compile
 ```
-git clone https://github.com/aneeshsudigala06/PokedexApp.git
+git clone https://github.com/aneeshsudigala06/PokedexCLI.git
 cd PokedexApp
 pip install requests
 pip install click
