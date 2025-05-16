@@ -16,6 +16,7 @@ This project is a Pokédex CLI built using Python and PokéAPI.
 git clone https://github.com/aneeshsudigala06/PokedexApp.git
 cd PokedexApp
 pip install requests
+pip install click
 ```
 
 ## Search by Name
