@@ -1,5 +1,7 @@
 # DexLite
 
+![Site Image](https://github.com/aneeshsudigala06/DexLite/blob/main/terminalimage.png)
+
 ## Description
 Simplified Pokédex in a Terminal.
 
